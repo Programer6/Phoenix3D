@@ -1,10 +1,53 @@
-# Phoenix3d
-Phoneix 3D is a  Compact CoreXY 3D Printer Design.
+# Phoenix3D
 
-X/Y Axis: 217 mm by 217 mm.
-Z-Axis: 230 mm.
+**Phoenix 3D** is a *Compact CoreXY 3D Printer Design*.  
+**Status:** IN PROGRESS
 
-Frame: Aluminum extrusion (2020/2040) with reduced dimensions
-Motion: CoreXY kinematics with linear rails
-Extruder: Direct drive for compact footprint
-Electronics: Compact SKR-style board with silent steppers
+---
+
+## Specifications
+
+- **X/Y Axis Travel:** 217 mm × 217 mm  
+- **Z-Axis Travel:** 230 mm  
+
+---
+
+## Frame
+
+- Aluminum extrusion (2020/2040)  
+- Reduced dimensions for compact footprint
+
+---
+
+## Motion System
+
+- CoreXY kinematics  
+- Linear rails on X and Y axes
+
+---
+
+## Extruder
+
+- Direct drive system  
+- Optimized for a compact layout
+
+---
+
+## Electronics
+
+- SKR-style compact control board  
+- Silent stepper motor drivers
+
+---
+
+## Purchase Links & Pricing
+
+For detailed pricing and direct purchase links for each component, refer to the [Google Sheets BOM](#):  
+**View & Buy Parts**
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.  
+See the `LICENSE` file for more details.
