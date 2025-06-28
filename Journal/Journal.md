@@ -3,11 +3,10 @@ Made by: @codelife / @programmer6
 
 **Project Status:** Awaiting funding 
 
-**CAD:** 
+**CAD:** https://a360.co/4kbavNb
 
-**Respository link:** 
+**Respository link:**  https://github.com/Programer6/Phoenix3D
 
-**BOM:** 
 
 ## Project Overview
 
