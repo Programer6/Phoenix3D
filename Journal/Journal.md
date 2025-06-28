@@ -145,26 +145,35 @@ These parts are not strictly required for a functional printer but are highly re
 ---
 
 
-# Glider Build Log
+# Build Log
 
 ## Stage 1: Base Frame Setup
-I started with the base. I modeled the bottom plate, attached the main vertical extrusions, and designed the initial Z-axis motor mount.  
+I started with the base. modeling the bottom plate, attaching the main vertical extrusions, and designing the initial Z-axis motor mount. 
+- 5 hour
+  
 ![Stage 1](https://github.com/user-attachments/assets/812a07d3-a7af-42d6-bfeb-7ab74abc116c)
+
 
 ---
 
 ## Stage 2: Top Frame & Z-Axis Motion
-Next, I added the top frame to complete the cube. I then focused on the Z-axis motion, adding the linear rails and the first parts of the bed carriage. This ensured the vertical movement would be stable.  
+Next, I added the top frame to complete the cube. I then on the Z-axis motion, adding the linear rails and the first parts of the bed carriage. This ensuring the vertical movement would be stable and that kinda stuff
+-6 hour
 ![Stage 2](https://github.com/user-attachments/assets/592cffb4-de6d-4f4f-8fe8-3ab688981c13)
 
 ---
 
 ## Stage 3: Motor & Pulley Mounts
-I spent a solid few hours designing and positioning the complex 3D-printed corner mounts for the motors and idler pulleys.  
+I spent a solid few hours designing and positioning the complex 3D-printed corner mounts for the motors and idler pulleys. 
+-6 hour
 ![Stage 3](https://github.com/user-attachments/assets/505b109f-f030-4152-a065-19ddd651459d)
 
 ---
 
 ## Stage 4: Digital Assembly
 With all the custom parts designed, the final step was the full digital assembly. I put everything together to check for collisions and ensure the mechanics worked.  
+- 5 hour
 ![Stage 4](https://github.com/user-attachments/assets/8261fe7e-037a-48b3-b6c7-eeea36604f7b)
+
+## Stafe 5: Design the part thoughout the process
+<img width="399" alt="Screenshot 2025-06-28 at 9 38 35 PM" src="https://github.com/user-attachments/assets/3133e443-ede4-46ad-8a7a-69ff03b3a11d" />
