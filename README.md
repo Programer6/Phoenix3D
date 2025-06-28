@@ -3,6 +3,9 @@
 **Phoenix 3D** is a *Compact CoreXY 3D Printer Design*.  
 **Status:** IN PROGRESS
 
+
+<img width="546" alt="Screenshot 2025-06-28 at 10 04 55 AM" src="https://github.com/user-attachments/assets/a4924b90-3da0-431e-af2f-77deec2937bc" />
+
 ---
 
 ## Specifications
