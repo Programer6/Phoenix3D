@@ -175,6 +175,9 @@ With all the custom parts designed, the final step was the full digital assembly
 - 5 hour
 ![Stage 4](https://github.com/user-attachments/assets/8261fe7e-037a-48b3-b6c7-eeea36604f7b)
 
+This is the low esitimate of the amout of time spent on desinging it took also qzuite a lot of time to desing as most of it was done during free time in school.
 
 ##  Designed the part thoughout the process
 <img width="399" alt="Screenshot 2025-06-28 at 9 38 35 PM" src="https://github.com/user-attachments/assets/3133e443-ede4-46ad-8a7a-69ff03b3a11d" />
+<img width="300" alt="Screenshot 2025-06-28 at 9 50 45 PM" src="https://github.com/user-attachments/assets/c2aa1e1d-c7dc-4cbd-850f-b86fbbe94601" />
+
