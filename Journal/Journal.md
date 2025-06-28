@@ -138,27 +138,26 @@ These parts are not strictly required for a functional printer but are highly re
 ---
 
 
-
 # Glider Build Log
 
 ## Stage 1: Base Frame Setup
-I started with the base. I modeled the bottom plate, attached the main vertical extrusions, and designed the initial Z-axis motor mount.
-<img width="388" alt="c04d48f7-b345-4153-82f3-1b0df7079eed" src="https://github.com/user-attachments/assets/812a07d3-a7af-42d6-bfeb-7ab74abc116c" />
+I started with the base. I modeled the bottom plate, attached the main vertical extrusions, and designed the initial Z-axis motor mount.  
+![Stage 1](https://github.com/user-attachments/assets/812a07d3-a7af-42d6-bfeb-7ab74abc116c)
 
+---
 
-## Stage 2: Top Frame & Z-Ax
-is Motion
-Next, I added the top frame to complete the cube. I then focused on the Z-axis motion, adding the linear rails and the first parts of the bed carriage. This ensured the vertical movement would be stable.
-<img width="592" alt="4fc914ab-135f-4404-a8f0-7b04ed8c4fb3" src="https://github.com/user-attachments/assets/592cffb4-de6d-4f4f-8fe8-3ab688981c13" />
+## Stage 2: Top Frame & Z-Axis Motion
+Next, I added the top frame to complete the cube. I then focused on the Z-axis motion, adding the linear rails and the first parts of the bed carriage. This ensured the vertical movement would be stable.  
+![Stage 2](https://github.com/user-attachments/assets/592cffb4-de6d-4f4f-8fe8-3ab688981c13)
 
-
+---
 
 ## Stage 3: Motor & Pulley Mounts
-I spent a solid few hours designing and positioning the complex 3D-printed corner mounts for the motors and idler pulleys.
-<img width="643" alt="7997295c-a411-4dbe-b6fe-7210a5313b38" src="https://github.com/user-attachments/assets/505b109f-f030-4152-a065-19ddd651459d" />
+I spent a solid few hours designing and positioning the complex 3D-printed corner mounts for the motors and idler pulleys.  
+![Stage 3](https://github.com/user-attachments/assets/505b109f-f030-4152-a065-19ddd651459d)
 
-
+---
 
 ## Stage 4: Digital Assembly
-With all the custom parts designed, the final step was the full digital assembly. I put everything together to check for collisions and ensure the mechanics worked.
-<img width="643" alt="18c09b98-2920-45b0-aeac-e2c231aa9f33" src="https://github.com/user-attachments/assets/8261fe7e-037a-48b3-b6c7-eeea36604f7b" />
+With all the custom parts designed, the final step was the full digital assembly. I put everything together to check for collisions and ensure the mechanics worked.  
+![Stage 4](https://github.com/user-attachments/assets/8261fe7e-037a-48b3-b6c7-eeea36604f7b)
