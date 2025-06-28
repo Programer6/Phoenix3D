@@ -159,14 +159,14 @@ I started with the base. modeling the bottom plate, attaching the main vertical 
 ## Stage 2: Top Frame & Z-Axis Motion
 Next, I added the top frame to complete the cube. I then on the Z-axis motion, adding the linear rails and the first parts of the bed carriage. This ensuring the vertical movement would be stable and that kinda stuff
 -6 hour
-![Stage 2](https://github.com/user-attachments/assets/592cffb4-de6d-4f4f-8fe8-3ab688981c13)
+![Stage 2]()
 
 ---
 
 ## Stage 3: Motor & Pulley Mounts
 I spent a solid few hours designing and positioning the complex 3D-printed corner mounts for the motors and idler pulleys. 
 -6 hour
-![Stage 3](https://github.com/user-attachments/assets/505b109f-f030-4152-a065-19ddd651459d)
+![Stage 3](https://github.com/user-attachments/assets/592cffb4-de6d-4f4f-8fe8-3ab688981c13)
 
 ---
 
