@@ -44,7 +44,7 @@ Overall, it helped me gathering references and brainstorming ideas and I also sc
 ##  Bill of Materials
 I have not added aliexpress links as they expire or get moved quite quickly as well and the fulctuating nature of the price itself so i hava given a estimate for each section 
 
-# Phoenix3D (x201) - Full Bill of Materials (Sourced Individually)
+# Phoenix3D (x201) - Full Bill of Materials (Sourced Individually - see cost breakdown in csv)
 
 ## Frame & Mechanical
 | Qty | Item                                        | Notes                                   |
