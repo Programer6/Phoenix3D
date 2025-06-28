@@ -56,7 +56,7 @@ I have not added aliexpress links as they expire or get moved quite quickly as w
 | 1   | Aluminum Sheet .063" thickness              | **300mm x 340mm** (Bottom Plate)        |
 | 12  | Aluminum Alloy T Slot L-Shape Joining Plate | Comes with M5x8 Screws & T-Nuts         |
 | 10  | Inside Connector L-Bracket                  | For internal frame connections          |
-| 1   | Gates Powergrip® GT2-6MM Belt               | 5 Meters (You will have extra)          |
+| 1   | Gates Powergrip® GT2-6MM Belt               | 5 Meters I will have extra)             |
 | 1   | Bowden Tube                                 | Cut to fit the smaller frame            |
 | 1   | M10 Fitting                                 | For Bowden tube mount                   |
 
