@@ -124,7 +124,7 @@ Overall, it helped me gathering references and brainstorming ideas and I also sc
 ---
 
 ## Optional & Recommended Upgrades
-These parts are not strictly required for a functional printer but are highly recommended for better quality, reliability, and ease of use.
+These parts are not strictly required for a functional printer but are highly recommended for better quality, reliability, and ease of use. I intend to pay for these out of my own pocket.
 
 | Qty | Item                                        | Notes                                                   |
 |:---:|:--------------------------------------------|:--------------------------------------------------------|
