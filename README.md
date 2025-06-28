@@ -27,21 +27,7 @@
 - CoreXY kinematics  
 - Linear rails on X and Y axes
 
----
 
-## Extruder
-
-- Direct drive system  
-- Optimized for a compact layout
-
----
-
-## Electronics
-
-- SKR-style compact control board  
-- Silent stepper motor drivers
-
----
 
 ## Purchase Links & Pricing
 
