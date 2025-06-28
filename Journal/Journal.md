@@ -42,6 +42,8 @@ Overall, it helped me gathering references and brainstorming ideas and I also sc
 - Sourced AliExpress parts:  BMG extruder, linear rails, belts. Was extremely hard to stay in budget, hit $300. Some of the part are most like not going to brough such as the neopixels as at this poitn it seems as if i am going quite above my budget of 350$
   
 ##  Bill of Materials
+I have not added aliexpress links as they expire or get moved quite quickly as well and the fulctuating nature of the price itself so i hava given a estimate for each section 
+
 # Phoenix3D (x201) - Full Bill of Materials (Sourced Individually)
 
 ## Frame & Mechanical
@@ -95,9 +97,8 @@ Overall, it helped me gathering references and brainstorming ideas and I also sc
 ## 3D Printing Materials
 | Qty | Item                      | Notes                                          |
 |:---:|:--------------------------|:-----------------------------------------------|
-| 1   | Pro PLA or PETG Filament  | ~1kg, for printing structural & cosmetic parts |
-| 1   | TPU Filament              | For printing flexible feet & cable relief      |
-| 1   | Phoenix3D (x201) Firmware | Custom Marlin configuration for this build     |
+| 1   | Pro PLA or PETG Filament  | ~1kg, for printing structural & cosmetic parts | - I already have this 
+
 
 ## Fasteners & Hardware
 | Qty | Item                      | Notes                                   |
@@ -122,9 +123,16 @@ Overall, it helped me gathering references and brainstorming ideas and I also sc
 | 1   | Silicone Leveling Column  | Set of 4, replaces bed springs          |
 
 ---
+## End Cost Estimate
+Section	Lower Estimate (USD)
+1. Frame & Mechanical	$110
+2. Motion System	$150
+3. Electronics & Wiring	$150
+4. Fasteners & Hardware	$35
+Grand Total Estimate	$445
 
-## Optional & Recommended Upgrades
-These parts are not strictly required for a functional printer but are highly recommended for better quality, reliability, and ease of use. I intend to pay for these out of my own pocket.
+## Optional Upgrades
+These parts are not strictly required for a functional printer but are highly recommended for better quality, reliability, and ease of use. I intend to pay for these out of my own pocket in the future.
 
 | Qty | Item                                        | Notes                                                   |
 |:---:|:--------------------------------------------|:--------------------------------------------------------|
