@@ -1,1 +1,64 @@
-
+Category,Qty,Item,Notes
+Frame & Structure,3,Aluminum Extrusion 20x80mm,300mm Long
+Frame & Structure,7,Aluminum Extrusion 20x20mm,300mm Long
+Frame & Structure,3,Aluminum Extrusion 20x20mm,"200mm Long (Cross Members)"
+Frame & Structure,2,Aluminum Extrusion 20x40mm,300mm Long
+Frame & Structure,1,"Aluminum Sheet .063"" thickness","300mm x 340mm (Bottom Plate)"
+Frame & Structure,12,"Aluminum Alloy T Slot L-Shape Joining Plate","Comes with M5x8 Screws & T-Nuts"
+Frame & Structure,10,"Inside Connector L-Bracket",For internal frame connections
+Frame & Structure,1,"Gates Powergrip® GT2-6MM Belt","5 Meters (You will have extra)"
+Frame & Structure,1,Bowden Tube,Cut to fit the smaller frame
+Frame & Structure,1,M10 Fitting,For Bowden tube mount
+Motion System,5,"MGN12H Linear Rail","300mm long, single block"
+Motion System,2,"Stainless Steel Lead Screw (T8)","300mm long, 2mm pitch, 2mm lead"
+Motion System,2,Flexible Shaft Coupling,5mm to 8mm bore
+Motion System,4,"Nema 17 Stepper Motors (High Torque)",1.8 degree step angle
+Motion System,1,Pancake Stepper Motor,For extruder assembly
+Motion System,6,"GT2 Idler Pulley (Toothed)","5mm Bore, 6mm Width"
+Motion System,2,"GT2 Idler Pulley (Toothless/Smooth)","5mm Bore, 6mm Width"
+Motion System,2,"GT2 Pulley (For Steppers)","20 Teeth, 5mm bore, 6mm Width"
+Electronics & Wiring,1,SKR V1.4 Mainboard,
+Electronics & Wiring,2,TMC2209 Stepper Driver,"For X and Y axes (enables sensorless homing)"
+Electronics & Wiring,2,TMC2225 Stepper Driver,For Z and Extruder axes
+Electronics & Wiring,1,TFT 2.4 Inch Touch Screen Display,
+Electronics & Wiring,1,"24v 360w Power Supply",
+Electronics & Wiring,1,"V6 Style Hot End Nozzle (24v)",
+Electronics & Wiring,1,BMG Style Geared Extruder,Right-hand opening version
+Electronics & Wiring,1,"Ender 3 Style Heat Bed (24v)","~235mm x 235mm"
+Electronics & Wiring,1,"Stepper Wires (4 Pack)",
+Electronics & Wiring,1,5015 Blower Fan,For part cooling
+Electronics & Wiring,1,Mechanical Endstop Limit Switch,For Z-axis homing
+Electronics & Wiring,1,USB Mount Panel,For rear of printer
+Electronics & Wiring,1,Switched Power Inlet,
+Electronics & Wiring,1,JST Connector Kit Assortment,
+Electronics & Wiring,1,"1/2"" Wire Wrap",For cable management
+Electronics & Wiring,1,Shrink Tubing Assortment,
+Electronics & Wiring,1,16 Gauge Silicone Wire,For power connections
+Electronics & Wiring,1,Zip Tie Assortment,
+3D Printing Materials,1,"Pro PLA or PETG Filament","~1kg, for printing structural & cosmetic parts"
+3D Printing Materials,1,TPU Filament,"For printing flexible feet & cable relief"
+3D Printing Materials,1,"Phoenix3D (x201) Firmware",Custom Marlin configuration for this build
+Fasteners & Hardware,53,"M5x8mm Socket Head Screw",
+Fasteners & Hardware,56,M5 T-Nut,
+Fasteners & Hardware,6,"M5x12mm Socket Head Screw",
+Fasteners & Hardware,2,"M5x35 Button Head Screw",For idler towers
+Fasteners & Hardware,4,"M5x40mm Socket Head Screw",For front pulley stacks
+Fasteners & Hardware,5,"M5x20mm Button Head Screw",For display panel
+Fasteners & Hardware,2,M5 Washer,For rear idler pulleys
+Fasteners & Hardware,68,"M3x8mm Socket Head Screw",
+Fasteners & Hardware,13,"M3x8mm Button Head Screw",
+Fasteners & Hardware,1,"M3x8mm Flat Head Screw",
+Fasteners & Hardware,6,"M3x12mm Socket Head Screws",
+Fasteners & Hardware,4,"M3x40mm Flat Head Screw",For securing the bed to the mounts
+Fasteners & Hardware,34,M3 T-Nut,
+Fasteners & Hardware,8,M3 Nut,
+Fasteners & Hardware,8,M3 Washer,
+Fasteners & Hardware,6,"M4x8mm Button Head Screw",For power supply fan shroud
+Fasteners & Hardware,2,"M4x20mm Socket Head Screw",For part cooling fan
+Fasteners & Hardware,1,"Silicone Leveling Column","Set of 4, replaces bed springs"
+Optional Upgrades,1,Aluminum Carriage Plate,"Rec: Strongly Recommended for rigidity"
+Optional Upgrades,1,Dual Sided PEI Build Plate,"Opt: ~235mm x 235mm to match the heat bed"
+Optional Upgrades,1,"Switched Power Inlet (Square Improved Version)","Opt: Provides a cleaner, snap-in installation"
+Optional Upgrades,1,"Hardened Steel Volcano Nozzles (0.4mm)","Opt: Needed only for printing abrasive filaments"
+Optional Upgrades,12,Insulated Fork Spade Wire Connector,"Opt: For safer, more secure PSU wiring"
+Optional Upgrades,3,"Insulated Wire Crimp Terminal (Female)","Opt: For safer, more secure switch wiring"
