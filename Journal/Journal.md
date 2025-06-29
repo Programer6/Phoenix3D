@@ -197,7 +197,7 @@ Z-axis & XY motor mounts were designed from scratch to precisely align the stepp
 <br>
 <img width="278" alt="Screenshot 2025-06-29 at 12 41 10 PM" src="https://github.com/user-attachments/assets/9663db9b-b0e5-4692-84d2-09b1bcc4175b" />
 
-
+-  the feet designed to give the printer a stable stance
 <img width="712" alt="Screenshot 2025-06-29 at 12 32 11 PM" src="https://github.com/user-attachments/assets/5c15139b-6449-46c2-a2db-2d8a3a0270d5" />
 
 ---
