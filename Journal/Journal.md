@@ -5,7 +5,7 @@ Made by: @codelife / @programmer6
 
 **CAD:** https://a360.co/4kbavNb
 
-**Time**  35 - 40 HOURs
+**Time**  50 HOURS
 
 **Respository link:**  https://github.com/Programer6/Phoenix3D
 
@@ -150,6 +150,17 @@ These parts are not strictly required for a functional printer but are highly re
 
 # Build Log
 
+## Stage 0: Chossing the equipment MAY 19 - 25
+- Motion: CoreXY with linear rails for speed and precision.
+<img width="209" alt="Screenshot 2025-06-29 at 11 49 02 AM" src="https://github.com/user-attachments/assets/20033554-22fb-4990-aacb-00684fab1a29" />
+
+- Extrusion: Bowden setup with a BMG extruder to keep the toolhead light.
+<img width="460" alt="Screenshot 2025-06-29 at 11 49 50 AM" src="https://github.com/user-attachments/assets/701c6b5f-a275-41d1-b4b6-3b10ca1681dd" />
+
+- Electronics: SKR 1.4 board for 32-bit processing and TMC2209s for sensorless homing.
+[image](https://github.com/user-attachments/assets/dd55550e-c0d4-4154-b911-37533f8bc06a)
+
+
 ## Stage 1: Base Frame Setup MAY 19 - 25
 I started with the base. modeling the bottom plate, attaching the main vertical extrusions, and designing the initial Z-axis motor mount. 
 - 5 hour
@@ -192,4 +203,8 @@ This is the low esitimate of the amout of time spent on desinging it took also q
 ##  Designed the part thoughout the process
 <img width="399" alt="Screenshot 2025-06-28 at 9 38 35 PM" src="https://github.com/user-attachments/assets/3133e443-ede4-46ad-8a7a-69ff03b3a11d" />
 <img width="300" alt="Screenshot 2025-06-28 at 9 50 45 PM" src="https://github.com/user-attachments/assets/c2aa1e1d-c7dc-4cbd-850f-b86fbbe94601" />
+
+# Design the BOM 28
+26-28
+Since I already had my stuff decied in cad it didn't take that long about 5 - 6 houts. 
 
