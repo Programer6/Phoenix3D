@@ -221,3 +221,9 @@ This is the low esitimate of the amout of time spent on desinging it took also q
 26-28
 Since I already had my stuff decied in cad it didn't take that long about 5 - 6 houts. 
 
+
+
+# Added toolhead
+<img width="455" alt="Screenshot 2025-06-29 at 2 00 45 PM" src="https://github.com/user-attachments/assets/b8f06a08-e3cc-4904-aca0-3cf6845f45f6" />
+
+
