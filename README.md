@@ -12,20 +12,15 @@
 
 - **X/Y Axis Travel:** 217 mm × 217 mm  
 - **Z-Axis Travel:** 230 mm  
-
----
-
-## Frame
-
-- Aluminum extrusion (2020/2040)  
-- Reduced dimensions for compact footprint
-
----
-
-## Motion System
-
+- Aluminum extrusion (2020/2040)
 - CoreXY kinematics  
 - Linear rails on X and Y axes
+
+
+## Why I designed this 3D printer:
+
+Building on the experience from ambu Mini-style design, designing a CoreXY felt like the natural progression to challenge myself with more advanced printer kinematics.
+
 
 
 
