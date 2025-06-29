@@ -5,7 +5,10 @@ Made by: @codelife / @programmer6
 
 **CAD:** https://a360.co/4kbavNb
 
+**Time**  35 - 40 HOURs
+
 **Respository link:**  https://github.com/Programer6/Phoenix3D
+
 
 
 ## Project Overview
@@ -147,7 +150,7 @@ These parts are not strictly required for a functional printer but are highly re
 
 # Build Log
 
-## Stage 1: Base Frame Setup
+## Stage 1: Base Frame Setup MAY 19 - 25
 I started with the base. modeling the bottom plate, attaching the main vertical extrusions, and designing the initial Z-axis motor mount. 
 - 5 hour
   
@@ -156,21 +159,21 @@ I started with the base. modeling the bottom plate, attaching the main vertical 
 
 ---
 
-## Stage 2: Top Frame & Z-Axis Motion
+## Stage 2: Top Frame & Z-Axis Motion MAY 26 - 30 
 Next, I added the top frame to complete the cube. I then on the Z-axis motion, adding the linear rails and the first parts of the bed carriage. This ensuring the vertical movement would be stable and that kinda stuff
 - 6 hour
 ![Stage 2](https://github.com/user-attachments/assets/0a4f02e4-33bd-4537-953e-e8c11f572867)
 
 ---
 
-## Stage 3: Motor & Pulley Mounts
+## Stage 3: Motor & Pulley Mounts JUN 1 - 25        
 I spent a solid few hours designing and positioning the complex 3D-printed corner mounts for the motors and idler pulleys. 
 -15 hour
 ![Stage 3](https://github.com/user-attachments/assets/592cffb4-de6d-4f4f-8fe8-3ab688981c13)
 
 ---
 
-## Stage 4: Digital Assembly
+## Stage 4: Digital Assembly JUN 26- 28
 With all the custom parts designed, the final step was the full digital assembly. I put everything together to check for collisions and ensure the mechanics worked.  
 - 6 hour
 ![Stage 4](https://github.com/user-attachments/assets/8261fe7e-037a-48b3-b6c7-eeea36604f7b)
