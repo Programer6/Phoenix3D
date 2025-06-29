@@ -181,8 +181,11 @@ Next, I added the top frame to complete the cube. I then on the Z-axis motion, a
 
 ## Stage 3: Motor & Pulley Mounts JUN 1 - 25        
 I spent a solid few hours designing and positioning the complex 3D-printed corner mounts for the motors and idler pulleys. 
--15+ hour
+- 15+ hour
+
+bed bracket from scratch, to precisely place the mounting holes.
 <img width="943" alt="Screenshot 2025-06-29 at 11 59 55 AM" src="https://github.com/user-attachments/assets/fa90e274-c035-46eb-a24b-5b68e37ed638" />
+
 <img width="702" alt="Screenshot 2025-06-29 at 8 32 43 AM" src="https://github.com/user-attachments/assets/bbf2e040-cc63-4d6f-ad88-ce8ff7bdbfa5" />
 <img width="934" alt="Screenshot 2025-06-29 at 8 33 37 AM" src="https://github.com/user-attachments/assets/4a157384-aa9a-455f-98d1-9b6ffa46dffa" />
 <img width="1048" alt="Screenshot 2025-06-29 at 8 34 33 AM" src="https://github.com/user-attachments/assets/9295b64a-1864-42e3-a540-4d91ea5f30f8" />
