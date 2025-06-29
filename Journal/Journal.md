@@ -158,7 +158,8 @@ These parts are not strictly required for a functional printer but are highly re
 <img width="460" alt="Screenshot 2025-06-29 at 11 49 50 AM" src="https://github.com/user-attachments/assets/701c6b5f-a275-41d1-b4b6-3b10ca1681dd" />
 
 - Electronics: SKR 1.4 board for 32-bit processing and TMC2209s for sensorless homing.
-[image](https://github.com/user-attachments/assets/dd55550e-c0d4-4154-b911-37533f8bc06a)
+<img width="383" alt="Screenshot 2025-06-29 at 11 51 17 AM" src="https://github.com/user-attachments/assets/98a64335-105f-466f-84df-7e58023adec9" />
+<img width="476" alt="Screenshot 2025-06-29 at 11 51 42 AM" src="https://github.com/user-attachments/assets/cea6ba46-47d3-475d-a991-58ace48367ef" />
 
 
 ## Stage 1: Base Frame Setup MAY 19 - 25
