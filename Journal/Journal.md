@@ -163,6 +163,11 @@ I started with the base. modeling the bottom plate, attaching the main vertical 
 Next, I added the top frame to complete the cube. I then on the Z-axis motion, adding the linear rails and the first parts of the bed carriage. This ensuring the vertical movement would be stable and that kinda stuff
 - 6 hour
 ![Stage 2](https://github.com/user-attachments/assets/0a4f02e4-33bd-4537-953e-e8c11f572867)
+<img width="764" alt="Screenshot 2025-06-29 at 8 32 20 AM" src="https://github.com/user-attachments/assets/3a111c37-2e1a-4f7f-8bd9-bee1b22388ff" />
+<img width="702" alt="Screenshot 2025-06-29 at 8 32 43 AM" src="https://github.com/user-attachments/assets/bbf2e040-cc63-4d6f-ad88-ce8ff7bdbfa5" />
+<img width="934" alt="Screenshot 2025-06-29 at 8 33 37 AM" src="https://github.com/user-attachments/assets/4a157384-aa9a-455f-98d1-9b6ffa46dffa" />
+<img width="1048" alt="Screenshot 2025-06-29 at 8 34 33 AM" src="https://github.com/user-attachments/assets/9295b64a-1864-42e3-a540-4d91ea5f30f8" />
+
 
 ---
 
