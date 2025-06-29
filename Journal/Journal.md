@@ -174,6 +174,8 @@ I started with the base. modeling the bottom plate, attaching the main vertical 
 ## Stage 2: Top Frame & Z-Axis Motion MAY 26 - 30 
 Next, I added the top frame to complete the cube. I then on the Z-axis motion, adding the linear rails and the first parts of the bed carriage. This ensuring the vertical movement would be stable and that kinda stuff
 - 6 hour
+
+Putting it all together:
 ![Stage 2](https://github.com/user-attachments/assets/0a4f02e4-33bd-4537-953e-e8c11f572867)
 
 
