@@ -129,7 +129,7 @@ Section	Lower Estimate (USD)
 2. Motion System	$150
 3. Electronics & Wiring	$150
 4. Fasteners & Hardware	$35
-Grand Total Estimate	$445
+Grand Total Estimate	$445 - This a high estimate 
 
 ## Optional Upgrades
 These parts are not strictly required for a functional printer but are highly recommended for better quality, reliability, and ease of use. I intend to pay for these out of my own pocket in the future.
