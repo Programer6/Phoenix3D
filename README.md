@@ -4,9 +4,12 @@
 **Phoenix 3D** is a *Compact CoreXY 3D Printer Design*.  
 **Status:** IN PROGRESS
 
-<center>
-<img width="546" alt="Screenshot 2025-06-28 at 10 04 55 AM" src="https://github.com/user-attachments/assets/a4924b90-3da0-431e-af2f-77deec2937bc" />
-</center>
+
+<p align="center">
+  <img width="546" alt="Screenshot 2025-06-28 at 10 04 55 AM" src="https://github.com/user-attachments/assets/a4924b90-3da0-431e-af2f-77deec2937bc" />
+</p>
+
+  
 ---
 
 ## Specifications
@@ -129,11 +132,11 @@ These parts are not strictly required for a functional printer but are highly re
 | 12  | Insulated Fork Spade Wire Connector         | `Opt:` For safer, more secure PSU wiring                |
 | 3   | Insulated Wire Crimp Terminal (Female)      | `Opt:` For safer, more secure switch wiring             |
 ---
-<center>
-  
-![A badge of a Cerberus and a raccoon laughing together, with the text "HIGHWAY" and "HACK CLUB" beside them.](https://hc-cdn.hel1.your-objectstorage.com/s/v3/0bbcca68ffa3845300bb76940f8ad91fd53d2d68_06-30-2025-1618.png)
 
-</center>
+
+<p align="center">
+  <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/0bbcca68ffa3845300bb76940f8ad91fd53d2d68_06-30-2025-1618.png" alt="A badge of a Cerberus and a raccoon laughing together, with the text 'HIGHWAY' and 'HACK CLUB' beside them." />
+</p>
 
 ---
 
