@@ -226,4 +226,6 @@ Since I already had my stuff decied in cad it didn't take that long about 5 - 6 
 # Added toolhead
 <img width="455" alt="Screenshot 2025-06-29 at 2 00 45 PM" src="https://github.com/user-attachments/assets/b8f06a08-e3cc-4904-aca0-3cf6845f45f6" />
 
+# Design the BOM - Jul 8 
+I was stuck doing a bunch of other YSWS as well as working on other highway projects so it took a bit of a while to actually make the changes after being reject for not having links in my BOM missing the some electronic component in the BOM, not the changes have been made updated! 
 
