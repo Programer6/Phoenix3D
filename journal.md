@@ -229,3 +229,6 @@ Since I already had my stuff decied in cad it didn't take that long about 5 - 6 
 # Design the BOM - Jul 8 
 I was stuck doing a bunch of other YSWS as well as working on other highway projects so it took a bit of a while to actually make the changes after being reject for not having links in my BOM missing the some electronic component in the BOM, not the changes have been made updated! 
 
+![screenshot_2025-07-08_at_8 16 12___pm_720](https://github.com/user-attachments/assets/67ec9dea-c231-4a44-9177-c425f30adf86)
+
+<img width="498" alt="Screenshot 2025-07-08 at 8 59 34 PM" src="https://github.com/user-attachments/assets/f06b12fc-97b5-4786-b1c8-383b36b42748" />
