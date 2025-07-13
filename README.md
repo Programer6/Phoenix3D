@@ -33,13 +33,12 @@ Building on the experience from ambu Mini-style design, designing a CoreXY felt 
 ##  Bill of Materials
 I have not added aliexpress links as they expire or get moved quite quickly as well and the fulctuating nature of the price itself so i hava given a estimate for each section 
 
-# Phoenix3D (x201) - Full Bill of Materials (Sourced Individually - see cost breakdown in csv)
+# Phoenix3D  - Full Bill of Materials ( - see cost breakdown in csv)
 
 ## Frame & Mechanical
 | Qty | Item                                        | Notes                                   |
 |:---:|:--------------------------------------------|:----------------------------------------|
-| 3   | Aluminum Extrusion 20x80mm                  | **300mm Long**                          |
-| 7   | Aluminum Extrusion 20x20mm                  | **300mm Long**                          |
+| 10   | Aluminum Extrusion 20x20mm                  | **300mm Long**                          |
 | 3   | Aluminum Extrusion 20x20mm                  | **200mm Long** (Cross Members)          |
 | 2   | Aluminum Extrusion 20x40mm                  | **300mm Long**                          |
 | 1   | Aluminum Sheet .063" thickness              | **300mm x 340mm** (Bottom Plate)        |
@@ -121,7 +120,7 @@ Section	Lower Estimate (USD)
 Grand Total Estimate	$445 - This a high estimate 
 
 ## Optional Upgrades
-These parts are not strictly required for a functional printer but are highly recommended for better quality, reliability, and ease of use. I intend to pay for these out of my own pocket in the future.
+ I intend to pay for these out of my own pocket in the future.
 
 | Qty | Item                                        | Notes                                                   |
 |:---:|:--------------------------------------------|:--------------------------------------------------------|
