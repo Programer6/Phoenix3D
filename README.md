@@ -23,7 +23,7 @@
 
 ## Why I designed this 3D printer:
 
-Building on the experience from ambu Mini-style design, designing a CoreXY felt like the natural progression to challenge myself with more advanced printer kinematics.
+Building on the experience from bambu mini-style design 3d printer for infill (even tho i could not get it approved in time), designing a CoreXY felt like the natural progression to challenge myself with more advanced printer kinematics.
 
 
 
