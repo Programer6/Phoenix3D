@@ -26,14 +26,7 @@
 Building on the experience from bambu mini-style design 3d printer for infill (even tho i could not get it approved in time), designing a CoreXY felt like the natural progression to challenge myself with more advanced printer kinematics.
 
 
-
-
-## Purchase Links & Pricing
-
-##  Bill of Materials
-I have not added aliexpress links as they expire or get moved quite quickly as well and the fulctuating nature of the price itself so i hava given a estimate for each section 
-
-# Phoenix3D  - Full Bill of Materials ( - see cost breakdown in csv)
+## Phoenix3D  - Full Bill of Materials ( - see cost breakdown in csv)
 
 ## Frame & Mechanical
 | Qty | Item                                        | Notes                                   |
