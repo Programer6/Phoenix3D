@@ -2,7 +2,7 @@
 
 
 **Phoenix 3D** is a *Compact CoreXY 3D Printer Design*.  
-**Status:** IN PROGRESS
+**Status:**: Awaiting Funding
 
 
 <p align="center">
