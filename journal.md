@@ -163,7 +163,7 @@ These parts are not strictly required for a functional printer but are highly re
 
 
 ## Stage 1: Base Frame Setup MAY 19 - 25
-I started with the base. modeling the bottom plate, attaching the main vertical extrusions, and designing the initial Z-axis motor mount. 
+ I modeled the 300x340mm aluminum bottom plate and began assembling the main vertical extrusions (2020 and 2080). This stage was critical for establishing the printer's overall footprint and ensuring the base was perfectly square and rigid.
 - 5 hour
   
 ![Stage 1](https://github.com/user-attachments/assets/812a07d3-a7af-42d6-bfeb-7ab74abc116c)
@@ -172,7 +172,7 @@ I started with the base. modeling the bottom plate, attaching the main vertical 
 ---
 
 ## Stage 2: Top Frame & Z-Axis Motion MAY 26 - 30 
-Next, I added the top frame to complete the cube. I then on the Z-axis motion, adding the linear rails and the first parts of the bed carriage. This ensuring the vertical movement would be stable and that kinda stuff
+I added the top frame extrusions to complete the cube structure. Attention then shifted to the Z-axis. I integrated the 300mm MGN12H linear rails and lead screws, designing the initial printed parts for the bed carriage. 
 - 6 hour
 
 Putting it all together:
