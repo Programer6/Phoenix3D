@@ -188,19 +188,21 @@ Putting it all together:
 I spent a solid few hours designing and positioning the complex 3D-printed corner mounts for the motors and idler pulleys. 
 - 15+ hour
 <br>
-- bed bracket from scratch, to precisely place the mounting holes.
+- The brackets connecting the build plate to the Z-axis linear rail blocks were custom-designed to perfectly align with the Ender 3-style heat bed's mounting holes.
 <img width="943" alt="Screenshot 2025-06-29 at 11 59 55 AM" src="https://github.com/user-attachments/assets/fa90e274-c035-46eb-a24b-5b68e37ed638" />
 <br>
 <img width="702" alt="Screenshot 2025-06-29 at 8 32 43 AM" src="https://github.com/user-attachments/assets/bbf2e040-cc63-4d6f-ad88-ce8ff7bdbfa5" />
 <br>
 Z-axis & XY motor mounts were designed from scratch to precisely align the stepper motors and lead screws with the vertical frame
 <img width="934" alt="Screenshot 2025-06-29 at 8 33 37 AM" src="https://github.com/user-attachments/assets/4a157384-aa9a-455f-98d1-9b6ffa46dffa" />
+
+<br>
 <img width="489" alt="Screenshot 2025-06-29 at 12 39 36 PM" src="https://github.com/user-attachments/assets/3321287e-f145-4be9-a5d6-35d901b52a83" />
 
 <br>
 <img width="278" alt="Screenshot 2025-06-29 at 12 41 10 PM" src="https://github.com/user-attachments/assets/9663db9b-b0e5-4692-84d2-09b1bcc4175b" />
-
--  the feet designed to give the printer a stable stance
+<br>
+-  Custom feet were designed not just for stability, but also to provide clearance for under-printer electronics and airflow.
 <img width="712" alt="Screenshot 2025-06-29 at 12 32 11 PM" src="https://github.com/user-attachments/assets/5c15139b-6449-46c2-a2db-2d8a3a0270d5" />
 
 ---
