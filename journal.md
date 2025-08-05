@@ -176,6 +176,9 @@ I added the top frame extrusions to complete the cube structure. Attention then 
 - 6 hour
 
 Putting it all together:
+
+
+
 ![Stage 2](https://github.com/user-attachments/assets/0a4f02e4-33bd-4537-953e-e8c11f572867)
 
 
