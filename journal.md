@@ -211,11 +211,10 @@ I spent a solid few hours designing and positioning the complex 3D-printed corne
 
 ## Stage 4: Digital Assembly JUN 26- 28
 With all the custom parts designed, the final step was the full digital assembly. I put everything together to check for collisions and ensure the mechanics worked.  
-- 6 hour
+- 6 hour 
 ![Stage 4](https://github.com/user-attachments/assets/8261fe7e-037a-48b3-b6c7-eeea36604f7b)
 
 
-This is the low estimate of the amount of time spent on designing it also took quite a lot of time to design as most of it was done during free time in school.
 
 <img width="546" alt="Screenshot 2025-06-28 at 10 04 55 AM" src="https://github.com/user-attachments/assets/a4924b90-3da0-431e-af2f-77deec2937bc" />
 
@@ -226,7 +225,7 @@ This is the low estimate of the amount of time spent on designing it also took q
 
 # Design the BOM 28
 26-28
-Since I already had my stuff decided in cad it didn't take that long about 5 - 6 houts. 
+Since I already had my stuff decided in cad it didn't take that long, about 5 - 6 hours. 
 
 
 
@@ -239,3 +238,9 @@ I was stuck doing a bunch of other YSWS as well as working on other highway proj
 ![screenshot_2025-07-08_at_8 16 12___pm_720](https://github.com/user-attachments/assets/67ec9dea-c231-4a44-9177-c425f30adf86)
 
 <img width="498" alt="Screenshot 2025-07-08 at 8 59 34 PM" src="https://github.com/user-attachments/assets/f06b12fc-97b5-4786-b1c8-383b36b42748" />
+
+
+# Design v2 
++ 3 hours
+added a design update - mainly this is just to give more space at the bottom! for the electronic in terms of z! and also remove the use of 20*40 extension whcih should make this 3d printer cheaper ot maek - by designing a custom holder!
+<img width="612" height="557" alt="Screenshot 2025-08-06 at 1 49 12 PM" src="https://github.com/user-attachments/assets/608bd9ff-fbde-4902-aea1-76ca0b712def" />
