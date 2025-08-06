@@ -233,7 +233,7 @@ Since I already had my stuff decided in cad it didn't take that long, about 5 - 
 <img width="455" alt="Screenshot 2025-06-29 at 2 00 45 PM" src="https://github.com/user-attachments/assets/b8f06a08-e3cc-4904-aca0-3cf6845f45f6" />
 
 # Design the BOM - Jul 8 
-I was stuck doing a bunch of other YSWS as well as working on other highway projects so it took a bit of a while to actually make the changes after being reject for not having links in my BOM missing the some electronic component in the BOM, not the changes have been made updated! 
+I was stuck doing a bunch of other YSWS as well as working on other highway projects so it took a bit of a while to actually make the changes after being rejected for not having links in my BOM, missing some electronic component in the BOM, not the changes have been made updated! 
 
 ![screenshot_2025-07-08_at_8 16 12___pm_720](https://github.com/user-attachments/assets/67ec9dea-c231-4a44-9177-c425f30adf86)
 
@@ -242,5 +242,5 @@ I was stuck doing a bunch of other YSWS as well as working on other highway proj
 
 # Design v2 
 + 3 hours
-added a design update - mainly this is just to give more space at the bottom! for the electronic in terms of z! and also remove the use of 20*40 extension whcih should make this 3d printer cheaper ot maek - by designing a custom holder!
+added a design update - mainly this is just to give more space at the bottom! for the electronic in terms of z! and also remove the use of 20*40 extension which should make this 3d printer cheaper to maek - by designing a custom holder!
 <img width="612" height="557" alt="Screenshot 2025-08-06 at 1 49 12 PM" src="https://github.com/user-attachments/assets/608bd9ff-fbde-4902-aea1-76ca0b712def" />
