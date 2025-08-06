@@ -3,7 +3,7 @@ Made by: @codelife / @programmer6
 
 **Project Status:** Awaiting funding 
 
-**CAD:** https://a360.co/4kbavNb
+**CAD:** https://a360.co/40OIows
 
 **Time**  50 HOURS
 
@@ -21,7 +21,7 @@ This build was my deep dive into printer mechanics,and  electronics, and is open
 - **Frame:** 2020 & 2040 aluminum extrusion  
 - **Motion:** CoreXY with linear rails  
   
-Just a quick note i was rlly lazy to document the journal while making the 3D printer thus, I don't really remember the excate date of which I completed the making of the 3d printer model thus I have put the estimate of the time i spent on each of the task! Hope you enjoy going through my journal!
+Just a quick note i was rlly lazy to document the journal while making the 3D printer thus, I don't really remember the excate date of which I completed the making of the 3d printer model thus, I have put the estimate of the time i spent on each of the task! Hope you enjoy going through my journal!
                                                                                                                                                                 |
 
 Here is some research that I did after reviwing AK printer's documentation which came in clutch:
@@ -215,7 +215,7 @@ With all the custom parts designed, the final step was the full digital assembly
 ![Stage 4](https://github.com/user-attachments/assets/8261fe7e-037a-48b3-b6c7-eeea36604f7b)
 
 
-This is the low esitimate of the amout of time spent on desinging it took also qzuite a lot of time to desing as most of it was done during free time in school.
+This is the low estimate of the amount of time spent on designing it also took quite a lot of time to design as most of it was done during free time in school.
 
 <img width="546" alt="Screenshot 2025-06-28 at 10 04 55 AM" src="https://github.com/user-attachments/assets/a4924b90-3da0-431e-af2f-77deec2937bc" />
 
@@ -226,7 +226,7 @@ This is the low esitimate of the amout of time spent on desinging it took also q
 
 # Design the BOM 28
 26-28
-Since I already had my stuff decied in cad it didn't take that long about 5 - 6 houts. 
+Since I already had my stuff decided in cad it didn't take that long about 5 - 6 houts. 
 
 
 
