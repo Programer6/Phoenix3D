@@ -6,7 +6,8 @@
 
 
 <p align="center">
- <img width="592" height="529" alt="Screenshot 2025-08-06 at 1 43 50 PM" src="https://github.com/user-attachments/assets/2cfb93a3-8a3f-4c47-8d6f-b6b1030c0bd6" />
+ <img width="572" height="561" alt="Screenshot 2025-08-06 at 7 12 17 PM" src="https://github.com/user-attachments/assets/dcfd3ae8-8427-456f-b37b-22c09bc61238" />
+
 </p>
 
   
