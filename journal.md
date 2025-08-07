@@ -242,5 +242,10 @@ I was stuck doing a bunch of other YSWS as well as working on other highway proj
 
 # Design v2 
 + 3 hours
-added a design update - mainly this is just to give more space at the bottom! for the electronic in terms of z! and also remove the use of 20*40 extension which should make this 3d printer cheaper to maek - by designing a custom holder!
+added a design update - mainly this is just to give more space at the bottom! for the electronic in terms of z! and also remove the use of 20*40 extension, which should make this 3d printer cheaper to make - by designing a custom holder!
 <img width="612" height="557" alt="Screenshot 2025-08-06 at 1 49 12 PM" src="https://github.com/user-attachments/assets/608bd9ff-fbde-4902-aea1-76ca0b712def" />
+
+## update:  - 2 hours
+I completely forgot the design tof he heatbead holder & just realized so did that asap & added to the repo! The heatbed that I will be using is going to be 235* 235, heat bed same as the Ender 3.
+<img width="751" height="444" alt="Screenshot 2025-08-07 at 10 50 11 AM" src="https://github.com/user-attachments/assets/f9773625-e89a-444f-a0ee-06ed241700e0" />
+
