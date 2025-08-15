@@ -12,7 +12,7 @@ Made by: @codelife / @programmer6
 ## Why am I making this Printer!
 So, why go through the trouble of designing and building a 3D printer from scratch when you can just buy one? For me, this project was never about just getting it made. It was about the challenge and the learning process, more about the 3d printing world since my infill project didn't get approved since I submitted quite late. Highway seemed like the perfect place to apply what I learned about infill by challenging myself by making corexy. After my experience in infill, even tho it was not approved, it actually surprisingly did teach me a lot and challenged me to even make something like this! FUN fact: I will be graded in school on how my 3d printer as it is going to be my personal project!
 
-### What Makes This Printer Different?
+### is this just another corexy :(?
 
 Short answer, not!!
 
