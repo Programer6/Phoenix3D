@@ -249,3 +249,10 @@ added a design update - mainly this is just to give more space at the bottom! fo
 I completely forgot the design tof he heatbead holder & just realized so did that asap & added to the repo! The heatbed that I will be using is going to be 235* 235, heat bed same as the Ender 3.
 <img width="751" height="444" alt="Screenshot 2025-08-07 at 10 50 11 AM" src="https://github.com/user-attachments/assets/f9773625-e89a-444f-a0ee-06ed241700e0" />
 
+
+# Design v3 
++4 Hours 
+I completely redesigned the toolhead to use less filament and to fit properly with the extruder. Here is how it looks now:
+<img width="377" height="494" alt="Screenshot 2025-08-15 at 5 03 23 PM" src="https://github.com/user-attachments/assets/2e95719a-eb6c-47e7-b2c1-b93541246dea" />
+
+
