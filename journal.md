@@ -10,22 +10,22 @@ Made by: @codelife / @programmer6
 **Respository link:**  https://github.com/Programer6/Phoenix3D
 
 ## Why am I making this Printer!
-So, why go through the trouble of designing and building a 3D printer from scratch when you can just buy one? For me, this project was never about just getting it made. It was about the challenge and the learning process more about the 3d printing world since my infill project didn't ger approve since i submitted quite late. Highway seemed like the perfect place to apply what i learned for infill by challenging myself by making corexy. after my experience in infill, even tho it was not approved, it actually surprisingly did teach me a lot and challenged me to even make something like this!
+So, why go through the trouble of designing and building a 3D printer from scratch when you can just buy one? For me, this project was never about just getting it made. It was about the challenge and the learning process, more about the 3d printing world since my infill project didn't ger approved since i submitted quite late. Highway seemed like the perfect place to apply what i learned for infill by challenging myself by making corexy. After my experience in infill, even tho it was not approved, it actually surprisingly did teach me a lot and challenged me to even make something like this! FUN fact: I will be graded in school on how my 3d priner as it is going to by my personal project!
 
 ### What Makes This Printer Different?
 
 Short answer, not!!
 
-Other then the fact that i put my entire life and soul into designing this, there are some key problem that I noticed which corexy they are **"significatly expensive"**. After digging a bit online to see how most coreXY are design i started to notice a few pattern:
+Other than the fact that i put my entire life and soul into designing this, there are some key problems that I noticed, which corexy they are **"significantly expensive"**. After digging a bit online to see how most coreXY are design, i started to notice a few patterns:
 
-*   **Why need even need a separate extrusion for the y linear rails which it can be mount just using a 3d printed part? huh..,**
-*   **Why have even have 2 linear rails each side?** well the answer is stabilty for sure but I cam to the realization that if you just make the 3d printed part cover more of space on the bed it can be just as stable. I saw this on some 3d printers available online.
+*   **Why do we even need a separate extrusion for the y linear rails, which can be mount just using a 3d printed part? huh..,**
+*   **Why do we even have 2 linear rails on each side?** well the answer is stability for sure, but I came to the realization that if you just make the 3d printed part cover more of the space on the bed, it can be just as stable. I saw this on some 3d printers available online.
 
-So those are the key two features that clearly make my 3d pritner more acessable to someone who is just getting start, has not enough budgut, or heck, doesn't need a 300*300 printing volume.
+So those are the key two features that clearly make my 3d printer more accessible to someone who is just getting started, does not have enough budget, or heck, doesn't need a 300*300 printing volume.
 
-Which reminds me, did you know this printer, while still having such a compact form, has almost the capability of printing as much as a ender3?? While most 3d printers in the market use quite a big size in extrusion, they choose a small heat bead so that it is not value for your buck!!!
+Which reminds me, did you know this printer, while still having such a compact form, has almost the capability of printing as much as an ender3?? While most 3d printers in the market use quite a big size in extrusion, they choose a small heat bead so that it is not value for your buck!!!
 
-There is even more. If you look at my 3d printer, you will notice something in the base. There is space to keep the battery etc. inside, something that makes it more aesthetic than having it outside your printer.
+There is even more. If you look at my 3d printer, you will notice something in the base. There is space to keep the battery etc., inside, something that makes it more aesthetic than having it outside your printer. Furthermore,n even if I have not dones it in this version of the 3d printer, I plan to even add enclosing (not just for the outside but also for the interpart to hide the wires etc. below)for the 3d printer using the acrylic sheets that are school has our the design lab. 
 
 
 
