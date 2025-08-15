@@ -223,7 +223,7 @@ With all the custom parts designed, the final step was the full digital assembly
 <img width="399" alt="Screenshot 2025-06-28 at 9 38 35 PM" src="https://github.com/user-attachments/assets/3133e443-ede4-46ad-8a7a-69ff03b3a11d" />
 <img width="300" alt="Screenshot 2025-06-28 at 9 50 45 PM" src="https://github.com/user-attachments/assets/c2aa1e1d-c7dc-4cbd-850f-b86fbbe94601" />
 
-# Design the BOM 28
+# Design the BOM - 28
 26-28
 Since I already had my stuff decided in cad it didn't take that long, about 5 - 6 hours. 
 
@@ -250,8 +250,8 @@ I completely forgot the design tof he heatbead holder & just realized so did tha
 <img width="751" height="444" alt="Screenshot 2025-08-07 at 10 50 11 AM" src="https://github.com/user-attachments/assets/f9773625-e89a-444f-a0ee-06ed241700e0" />
 
 
-# Design v3 
-+4 Hours 
+# Design v3 - Aug. 15
++5 Hours 
 I completely redesigned the toolhead to use less filament and to fit properly with the extruder. Here is how it looks now:
 <img width="377" height="494" alt="Screenshot 2025-08-15 at 5 03 23 PM" src="https://github.com/user-attachments/assets/2e95719a-eb6c-47e7-b2c1-b93541246dea" />
 
