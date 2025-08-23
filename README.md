@@ -34,7 +34,7 @@ Building on the experience from bambu mini-style design 3d printer for infill (e
 |:---:|:--------------------------------------------|:----------------------------------------|
 | 10   | Aluminum Extrusion 20x20mm                  | **300mm Long**                          |
 | 3   | Aluminum Extrusion 20x20mm                  | **200mm Long** (Cross Members)          |
-| 2   | Aluminum Extrusion 20x40mm                  | **300mm Long**                          |
+| 2   | Aluminum Extrusion 20x40mm                  | **300mm Long** (This wil not be needed in v2 printer)                        |
 | 1   | Aluminum Sheet .063" thickness              | **300mm x 340mm** (Bottom Plate)        |
 | 12  | Aluminum Alloy T Slot L-Shape Joining Plate | Comes with M5x8 Screws & T-Nuts         |
 | 10  | Inside Connector L-Bracket                  | For internal frame connections          |
