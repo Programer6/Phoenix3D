@@ -277,3 +277,8 @@ I completely redesigned the toolhead to use less filament and to fit properly wi
 <img width="377" height="494" alt="Screenshot 2025-08-15 at 5 03 23 PM" src="https://github.com/user-attachments/assets/2e95719a-eb6c-47e7-b2c1-b93541246dea" />
 
 
+# Design v3 - Aug. 26 & 25
++6 Hours 
+
+I worked on addressing the feedback I received about my 3D printer design from Tanishq .. The main issue I tackled was the missing part cooler At first, I tried placing the fan duct on the side, but after testing that approach but then realized it would reduce the usable X-axis length so had to redo again. As you can see I am really smart. Other then that i also fix some overlap issues, added the linear rails make and made the part movable & added leadscrew!
+
